@@ -1,11 +1,11 @@
 # Hello-World
-# H1 Project Title
+# Project Title
 Hello World Test Run
-# H1 Description
+# Description
 *First GitHub Repository*
-# H1 **Files Used**
+# **Files Used**
 No files used
-# H1 Styling
+# Styling
 - Italics
 - Bold
 - Heading
